@@ -1,0 +1,7 @@
+devid=bratta
+devtitle=Tim Gourley
+gameid=hand-some
+gametitle=Hand-Some
+version=0.1
+icon=metadata/icon.png
+compile_ruby=false
